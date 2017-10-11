@@ -44,11 +44,6 @@ o "Sheath is decent and also considering having a kydex sheath made for it."
 price: $195.00 (October 11, 2017)
 https://www.rei.com/product/855181/benchmade-162-bushcrafter-knife?cm_mmc=ad_gdn-_-dyn_prd_rtr-_-8551810001-_-Gadgets-_-REI&CAWELAID=120217890003760023&CAGPSPN=dyn&CAAGID=41138408819&CATCI=aud-288899041662&gclid=CNG52vmX6dYCFQ2ffgodhPQCEw
 
-Custom Knife Sheath
-The Cleveland Kydex Co.
-http://www.clevelandkydex.com/index.php?main_page=index&cPath=4&gclid=CjwKCAjwgvfOBRB7EiwAeP7ehrObQ-pkQuLwAykadlZY8AlJ8R-U7_CNQkkZvXz5MY6jxKS-rr0o4xoCtvEQAvD_BwE
-
-
 Benchmade 485-171 Valet Knife
 Features:
 --------
@@ -67,14 +62,36 @@ Number of Blades: 1
 Max Blade Length (in.): 2.96
 Closed Length: 3.73 inches
 One-Handed Opening: Yes
-Handle Material: Billet titanium
-Blade Construction: Damasteel
+Handle Material: Billet titanium   <=== Titanium
+Blade Construction: Damasteel      <=== Stainless!
 Lanyard Ring: Yes
 Dimensions: 6.7 x 0.5 inches
 Weight: 2.8 ounces
-price: $595.00
+price: $595.00 (October 11, 2017)
 Looks very, very nice.
 https://www.rei.com/product/118161/benchmade-485-171-valet-knife?cm_mmc=ad_gdn-_-dyn_prd_rtr-_-1181610001-_-Gadgets-_-REI&CAWELAID=120217890003871072&CAGPSPN=dyn&CAAGID=41138408819&CATCI=aud-288899041662&gclid=CKeplZm_5tYCFQaTfgodNyoIfA
+
+Benchmade 15001-2 Saddle Mountain Fixed Blade Knife
+Features:
+o CPM-S30V premium stainless-steel blade
+o Laminated Dymondwood handle
+o The Benchmade Saddle Mountain Fixed Blade Knife
+  includes a rich leather pressure-fit sheath with
+  integrated guard
+Technical specs:
+Best Use: Camping
+Knife Blade Type: Straight Edge
+Number of Blades: 1
+Max Blade Length (in.): 4.17
+Handle Material: Wood                          <=== Laminated Dymondwood handle
+Blade Construction: CPM-S30V stainless steel   <=== stainless!
+Weight: 4.09 ounces
+price: $140.00 (October 11, 2017)
+https://www.rei.com/product/872149/benchmade-15001-2-saddle-mountain-fixed-blade-knife?cm_mmc=ad_gdn-_-dyn_prd_rtr-_-8721490001-_-Gadgets-_-REI&CAWELAID=120217890003759995&CAGPSPN=dyn&CAAGID=41138408819&CATCI=aud-288899041662&gclid=CM7phZTN6dYCFQ9Efgod7UQCnA
+
+Custom Knife Sheath
+The Cleveland Kydex Co.
+http://www.clevelandkydex.com/index.php?main_page=index&cPath=4&gclid=CjwKCAjwgvfOBRB7EiwAeP7ehrObQ-pkQuLwAykadlZY8AlJ8R-U7_CNQkkZvXz5MY6jxKS-rr0o4xoCtvEQAvD_BwE
 
 Damascus Knives
 http://www.budk.com/Damascus-Knives-3552
