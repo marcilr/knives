@@ -1,0 +1,25 @@
+# manifest
+# Created Mon Dec  4 20:57:15 AKST 2017
+# Copyright (C) 2016-2017 by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Manifest for resync application
+#
+# To my knowledge GitHub does not support hierarchical repositories outside
+# of perhaps git submodules.  However, submodules are not so good so I've
+# implemented hierarchical repositories using repo names and this manifest.
+#
+# The dashes in the repo names represent directory separation.  There are
+# some repos like svn-to-git/ that have acutally dashes in the repo name.
+# Have not escaped these dashes in any way.   Might do this at some point.
+#
+
+# =====================================================================
+# =====================================================================
+#
+# Public GitHub repositories
+#
+# =====================================================================
+# =====================================================================
+
+# Cutco
+ssh://git@github.com/marcilr/cutco   cutco
